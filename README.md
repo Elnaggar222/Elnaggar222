@@ -18,8 +18,8 @@ I'm a passionate front-end developer with experience building responsive website
 
 
 <h3 align="left">Connect with me:</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elnaggar222)  
 <p align="left">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elnaggar222) 
 <a href="https://www.linkedin.com/in/eng-elnaggar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezan8r" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.elnaggar.7370013?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezamavoir" height="30" width="40" /></a>
 </p>  
