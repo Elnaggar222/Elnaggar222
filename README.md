@@ -12,7 +12,12 @@ I'm a passionate front-end developer with experience building responsive website
 * Firebase, Json-server, and more...
 * familiar with node JS, Express JS, and how to deal with backend APIs
   
-- 🔭 I’m currently working on this page.
+- 🔭 I’m currently working on advanced projects for my portfolio 
+- 🌱 I’m currently learning advanced topics in react and started to learn next JS  
+- 👯 I’m looking to collaborate on an internship to increase my experience in building front end web application using react JS  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elnaggar222)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=transparent)
 
