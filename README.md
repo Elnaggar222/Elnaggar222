@@ -19,10 +19,8 @@ I'm a passionate front-end developer with experience building responsive website
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rezamorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rezamorin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rezan8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezan8r" height="30" width="40" /></a>
-<a href="https://fb.com/rezamavoir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezamavoir" height="30" width="40" /></a>
-<a href="https://instagram.com/rezan8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezan8r" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eng-elnaggar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezan8r" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamed.elnaggar.7370013?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezamavoir" height="30" width="40" /></a>
 </p>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=transparent)
