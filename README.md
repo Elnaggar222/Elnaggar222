@@ -18,7 +18,7 @@ I'm a passionate front-end developer with experience building responsive website
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mohamedelnaggar486@gmail.com)  
 
-<a href="mohamedelnaggar486@gmail.com"></a>
+<a href="mohamedelnaggar486@gmail.com">message</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
