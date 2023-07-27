@@ -16,7 +16,7 @@ I'm a passionate front-end developer with experience building responsive website
 - 🌱 I’m currently learning advanced topics in React and started to learn next JS  
 - 👯 I’m looking to collaborate on an internship to increase my experience in building front-end web applications using React JS  
 
-<a href="mailto:mohamedelnaggar486@gmail.com?"><img width="80" height="80" src="https://www.iconbolt.com/preview/twitter/social-media-logos/email-gmail-logo-mail-social-social-media.svg"/></a> 
+<a href="mailto:mohamedelnaggar486@gmail.com?"><img src="https://www.iconbolt.com/preview/twitter/social-media-logos/email-gmail-logo-mail-social-social-media.svg"/></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
