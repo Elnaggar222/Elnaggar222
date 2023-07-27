@@ -16,9 +16,7 @@ I'm a passionate front-end developer with experience building responsive website
 - 🌱 I’m currently learning advanced topics in React and started to learn next JS  
 - 👯 I’m looking to collaborate on an internship to increase my experience in building front-end web applications using React JS  
 
-
 <h3 align="left">Connect with me:</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elnaggar222)  
 <p align="left">
 <a href="https://www.linkedin.com/in/eng-elnaggar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezan8r" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.elnaggar.7370013?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezamavoir" height="30" width="40" /></a>
