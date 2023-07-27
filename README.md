@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Elnaggar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋, Mohamed Elnaggar
 #### Front End Web developer ~ Fresh Graduate
