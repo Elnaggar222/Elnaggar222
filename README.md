@@ -17,7 +17,13 @@ I'm a passionate front-end developer with experience building responsive website
 - 👯 I’m looking to collaborate on an internship to increase my experience in building front-end web applications using React JS  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Elnaggar222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Elnaggar222/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Elnaggar222)   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rezamorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rezamorin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rezan8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezan8r" height="30" width="40" /></a>
+<a href="https://fb.com/rezamavoir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezamavoir" height="30" width="40" /></a>
+<a href="https://instagram.com/rezan8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rezan8r" height="30" width="40" /></a>
+</p>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=transparent)
 
