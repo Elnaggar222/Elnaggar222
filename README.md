@@ -16,7 +16,7 @@ I'm a passionate front-end developer with experience building responsive website
 - 🌱 I’m currently learning advanced topics in React and started to learn next JS  
 - 👯 I’m looking to collaborate on an internship to increase my experience in building front-end web applications using React JS  
 
-<a href="mailto:mohamedelnaggar486@gmail.com?"><img style="object-fit: cover;" width="80" height="80" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"/></a> 
+<a href="mailto:mohamedelnaggar486@gmail.com?"><img style="display:none;" width="80" height="80" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png"/></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
