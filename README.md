@@ -27,11 +27,9 @@ I'm a passionate front-end developer with experience building responsive website
 <a href="mailto:mohamedelnaggar486@gmail.com?"><img align="center"  height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/></a> 
 </p>  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="elnaggar222" /> </p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=transparent)
-
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat theme=transparent" alt="elnaggar222" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaggar222&show_icons=true&locale=en&layout=compact&theme=transparent" alt="elnaggar222" /></p>
 
