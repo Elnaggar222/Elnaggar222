@@ -22,7 +22,13 @@ I'm a passionate front-end developer with experience building responsive website
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eng-elnaggar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezan8r" height="30" width="40" /></a>
+<a> </a>
+<a> </a>
+<a> </a>
+<a> </a>
+<a> </a>
 <a href="https://www.facebook.com/mohamed.elnaggar.7370013?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rezamavoir" height="30" width="40" /></a>
+<a>&ensp;</a>
 <a href="mailto:mohamedelnaggar486@gmail.com?"><img align="center"  height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/></a> 
 </p>  
 
