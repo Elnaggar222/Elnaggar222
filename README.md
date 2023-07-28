@@ -5,7 +5,7 @@
 I'm mohamed from Egypt|Tanta|Kafr Az-Zayyat, and I'm an Experienced developer with a Bachelor’s degree in Computer Engineering from Tanta University. 
 I'm a passionate front-end developer with experience building responsive websites and web applications using ReactJS. I'm skilled in HTML, CSS, and JavaScript and have a strong design eye. In my free time, I enjoy experimenting with new technologies and staying up-to-date with the latest trends in the industry.
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
+<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
 
 ## Skills and Experience 
 * ⚛ React
