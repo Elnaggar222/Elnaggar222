@@ -29,7 +29,6 @@ I'm a passionate front-end developer with experience building responsive website
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="elnaggar222" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
