@@ -31,11 +31,11 @@ I'm a passionate front-end developer with experience building responsive website
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="elnaggar222" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat theme=transparent" alt="elnaggar222" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaggar222&show_icons=true&locale=en&layout=compact" alt="elnaggar222" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaggar222&show_icons=true&locale=en&layout=compact&theme=transparent" alt="elnaggar222" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnaggar222&" alt="elnaggar222" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnaggar222&theme=transparent" alt="elnaggar222" /></p>
 
 
 
