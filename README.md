@@ -27,10 +27,9 @@ I'm a passionate front-end developer with experience building responsive website
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=transparent)
 
 ###
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="elnaggar222" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207" />
 
-<p align="left">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="elnaggar222" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaggar222&show_icons=true&locale=en&layout=compact" alt="elnaggar222" /></p>
 
