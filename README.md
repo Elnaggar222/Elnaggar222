@@ -77,7 +77,3 @@ I’m always excited to connect with fellow developers, collaborate on projects,
 Whether you’re looking to collaborate on a project, discuss web development, or just say hi, I’d love to hear from you. Let’s create something awesome together! 🚀
 
 ---
-
-### **Credits**
-- Icons by [Shields.io](https://shields.io/) and [Font Awesome](https://fontawesome.com/).
-- GitHub Stats by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
