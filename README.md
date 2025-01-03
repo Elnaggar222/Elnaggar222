@@ -1,8 +1,14 @@
 # 👋 Hello, I'm **Mohamed Elnaggar**  
 #### **Junior Front-End Web Developer | Passionate about Building Beautiful, Responsive Web Experiences**
 
-<div align="center">
-  <img alt="Coding" width="300" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" style="max-width: 100%; height: auto;" />
+<div align="center" class="header-container">
+  <div class="content">
+    <h1>Hello, I'm Mohamed Elnaggar</h1>
+    <p>Junior Front-End Web Developer | Passionate about Building Beautiful, Responsive Web Experiences</p>
+  </div>
+  <div class="image-container">
+    <img alt="Coding" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" />
+  </div>
 </div>
 
 ---
@@ -36,7 +42,7 @@ I’m a **Computer Engineering graduate** from **Tanta University**, based in **
 
 I’m always excited to connect with fellow developers, collaborate on projects, or discuss new ideas. Feel free to reach out!
 
-<div align="left">
+<div align="left" class="social-links">
   <a href="https://www.linkedin.com/in/eng-elnaggar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -77,3 +83,51 @@ I’m always excited to connect with fellow developers, collaborate on projects,
 Whether you’re looking to collaborate on a project, discuss web development, or just say hi, I’d love to hear from you. Let’s create something awesome together! 🚀
 
 ---
+
+### **Styling for Responsive Layout**
+
+To make the photo and content responsive, add the following CSS (either inline or in a separate stylesheet):
+
+```html
+<style>
+  .header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+  }
+
+  .image-container img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  @media (min-width: 768px) {
+    .header-container {
+      flex-direction: row;
+      justify-content: center;
+      align-items: flex-start;
+      text-align: left;
+    }
+
+    .content {
+      flex: 1;
+      max-width: 50%;
+    }
+
+    .image-container {
+      flex: 1;
+      max-width: 50%;
+    }
+  }
+
+  .social-links {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+  }
+</style>
