@@ -1,10 +1,5 @@
-# 👋 Mohamed Elnaggar
-
-#### Junior Front-End Web Developer
-
-I'm Mohamed from Egypt (Tanta, Kafr Az-Zayyat), and I'm an experienced developer with a Bachelor’s degree in Computer Engineering from Tanta University. 
-
-I am a passionate front-end developer skilled in building responsive websites and web applications using ReactJS. My expertise lies in HTML, CSS, JavaScript, and modern UI libraries. With a strong design eye, I love experimenting with new technologies and staying up-to-date with the latest trends in the industry.
+# 👋 Hello, I'm **Mohamed Elnaggar**  
+#### **Junior Front-End Web Developer | Passionate about Building Beautiful, Responsive Web Experiences**
 
 <div align="center">
   <img alt="Coding" width="300" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" style="max-width: 100%; height: auto;" />
@@ -12,53 +7,77 @@ I am a passionate front-end developer skilled in building responsive websites an
 
 ---
 
-## 🚀 Skills and Experience
+## 🚀 **About Me**
 
-### 🌐 Front-End Development
-- ⚛ **ReactJS**
-- 💻 **HTML, CSS, JavaScript**
-- 🎨 **Bootstrap, Material-UI**
-- 🔥 **Firebase, JSON-server**
-- 🔧 Familiar with **Node.js**, **Express.js**, and working with backend APIs
+I’m a **Computer Engineering graduate** from **Tanta University**, based in **Tanta, Egypt**. With a passion for crafting seamless and visually appealing web experiences, I specialize in **Front-End Development** using modern technologies like **ReactJS**, **HTML**, **CSS**, and **JavaScript**. I thrive on solving problems, experimenting with new tools, and staying ahead of industry trends.
 
 ---
 
-## 📈 Current Focus
+## 🛠️ **Skills and Expertise**
 
-- 🔭 **Building advanced projects** for my portfolio.
-- 🌱 Learning **advanced topics in React**, diving into **TypeScript** and exploring **Next.js**.
-- 👯 Looking for opportunities to collaborate on internships or projects to enhance my experience in front-end development using ReactJS.
+### **Front-End Development**
+- ⚛ **ReactJS** – Building dynamic and responsive user interfaces.
+- 💻 **HTML, CSS, JavaScript** – Crafting clean and semantic code.
+- 🎨 **Bootstrap, Material-UI** – Designing modern and responsive layouts.
+- 🔥 **Firebase, JSON-server** – Integrating backend services and APIs.
+- 🔧 **Node.js, Express.js** – Familiar with backend development and API integration.
 
 ---
 
-## 🌐 Connect with Me
+## 🌱 **What I’m Up To**
 
-<h3 align="left">Let's Collaborate:</h3>
-<p align="left">
+- 🔭 **Building advanced projects** to expand my portfolio and showcase my skills.
+- 🌱 Learning **TypeScript** and exploring **Next.js** for scalable web applications.
+- 👯 Open to **collaborations** and **internship opportunities** to grow as a front-end developer.
+
+---
+
+## 📬 **Let’s Connect**
+
+I’m always excited to connect with fellow developers, collaborate on projects, or discuss new ideas. Feel free to reach out!
+
+<div align="left">
   <a href="https://www.linkedin.com/in/eng-elnaggar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/mohamed.elnaggar.7370013?mibextid=ZbWKwL" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:mohamedelnaggar486@gmail.com">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="Gmail" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="elnaggar222" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=transparent)
+  ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elnaggar222&show_icons=true&locale=en&layout=compact&theme=transparent" alt="elnaggar222" /></p>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elnaggar222&show_icons=true&locale=en&layout=compact&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elnaggar222&theme=transparent" alt="elnaggar222" /></p>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elnaggar222&theme=radical)
+</div>
 
 ---
 
-## 🎨 Personal Touch
-Feel free to reach out for collaborations or to share ideas about web development. I am always excited to connect with like-minded individuals and work on innovative projects!
+## 🎨 **Why Work With Me?**
+
+- **Attention to Detail**: I focus on creating pixel-perfect designs and clean, maintainable code.
+- **Continuous Learner**: Always exploring new technologies and improving my skill set.
+- **Team Player**: Enjoy collaborating with others to bring ideas to life.
+
+---
+
+## 💡 **Let’s Build Something Amazing!**
+
+Whether you’re looking to collaborate on a project, discuss web development, or just say hi, I’d love to hear from you. Let’s create something awesome together! 🚀
+
+---
+
+### **Credits**
+- Icons by [Shields.io](https://shields.io/) and [Font Awesome](https://fontawesome.com/).
+- GitHub Stats by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
