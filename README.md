@@ -38,16 +38,16 @@ I’m always excited to connect with fellow developers, collaborate on projects,
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eng-elnaggar/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=black&link=https://www.linkedin.com/in/eng-elnaggar/" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://www.facebook.com/mohamed.elnaggar.7370013?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=black&link=https://www.facebook.com/mohamed.elnaggar.7370013?mibextid=ZbWKwL" alt="Facebook" />
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" width="40" height="40" />
   </a>
   <a href="mailto:mohamedelnaggar486@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=black&link=mailto:mohamedelnaggar486@gmail.com" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="40" height="40" />
   </a>
   <a href="https://wa.me/201010927998" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=black&link=https://wa.me/201010927998" alt="WhatsApp" />
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="40" height="40" />
   </a>
 </div>
 
