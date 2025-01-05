@@ -46,7 +46,6 @@ I’m always excited to connect with fellow developers, collaborate on projects,
   <a href="mailto:mohamedelnaggar486@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=573008754649&text=Hi!🖖)
 </div>
 
 ---
