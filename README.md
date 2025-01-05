@@ -46,7 +46,7 @@ I’m always excited to connect with fellow developers, collaborate on projects,
   <a href="mailto:mohamedelnaggar486@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/your-phone-number" target="_blank">
+  <a href="https://wa.me/201010927998" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
