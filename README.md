@@ -38,16 +38,16 @@ I’m always excited to connect with fellow developers, collaborate on projects,
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eng-elnaggar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=black" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/mohamed.elnaggar.7370013?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=black" alt="Facebook" />
   </a>
   <a href="mailto:mohamedelnaggar486@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=black" alt="Gmail" />
   </a>
   <a href="https://wa.me/201010927998" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366&color=black" alt="WhatsApp" />
   </a>
 </div>
 
