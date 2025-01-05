@@ -2,7 +2,7 @@
 #### **Junior Front-End Web Developer | Passionate about Building Beautiful, Responsive Web Experiences**
 
 <div align="center">
-  <img alt="Coding" width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/refs/heads/main/animation_500_kxa883sd.gif" style="max-width: 100%; height: auto;" />
+  <img alt="Coding" width="300" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/refs/heads/main/animation_500_kxa883sd.gif" />
 </div>
 
 ---
