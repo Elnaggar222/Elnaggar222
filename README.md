@@ -49,7 +49,7 @@ I’m always excited to connect with fellow developers, collaborate on projects,
   <a href="https://wa.me/201010927998" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href="https://t.me/201010927998" target="_blank">
+  <a href="https://t.me/Engnaggar" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="40" height="40" />
   </a>
 </div>
