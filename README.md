@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Mohamed Elnaggar**  
+# 👋 Hello, I'm **Mohamed Elnaggar**
 #### **Junior Front-End Web Developer | Passionate about Building Beautiful, Responsive Web Experiences**
 
 ## 🛠️ **My Skills**
