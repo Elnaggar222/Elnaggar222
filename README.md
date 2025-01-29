@@ -1,11 +1,10 @@
 # 👋 Hello, I'm **Mohamed Elnaggar**  
 #### **Junior Front-End Web Developer | Passionate about Building Beautiful, Responsive Web Experiences**
 
-<div align="center">
-  <img alt="Coding" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/refs/heads/main/animation_500_kxa883sd.gif" />
-</div>
-
 ---
+
+## 🛠️ **My Skills**
+### **Front-End Development**
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
 
 ---
@@ -13,17 +12,6 @@
 ## 🚀 **About Me**
 
 I’m a **Computer Engineering graduate** from **Tanta University**, based in **Tanta, Egypt**. With a passion for crafting seamless and visually appealing web experiences, I specialize in **Front-End Development** using modern technologies like **ReactJS**, **HTML**, **CSS**, and **JavaScript**. I thrive on solving problems, experimenting with new tools, and staying ahead of industry trends.
-
----
-
-## 🛠️ **Skills and Expertise**
-
-### **Front-End Development**
-- ⚛ **ReactJS** – Building dynamic and responsive user interfaces.
-- 💻 **HTML, CSS, JavaScript** – Crafting clean and semantic code.
-- 🎨 **Bootstrap, Material-UI** – Designing modern and responsive layouts.
-- 🔥 **Firebase, JSON-server** – Integrating backend services and APIs.
-- 🔧 **Node.js, Express.js** – Familiar with backend development and API integration.
 
 ---
 
