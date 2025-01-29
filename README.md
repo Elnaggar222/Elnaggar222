@@ -1,8 +1,6 @@
 # 👋 Hello, I'm **Mohamed Elnaggar**  
 #### **Junior Front-End Web Developer | Passionate about Building Beautiful, Responsive Web Experiences**
 
----
-
 ## 🛠️ **My Skills**
 ### **Front-End Development**
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
@@ -47,20 +45,6 @@ I’m always excited to connect with fellow developers, collaborate on projects,
 
 ---
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-  ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=radical)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elnaggar222&show_icons=true&locale=en&layout=compact&theme=radical)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elnaggar222&theme=radical)
-</div>
-
----
-
 ## 🎨 **Why Work With Me?**
 
 - **Attention to Detail**: I focus on creating pixel-perfect designs and clean, maintainable code.
@@ -72,5 +56,19 @@ I’m always excited to connect with fellow developers, collaborate on projects,
 ## 💡 **Let’s Build Something Amazing!**
 
 Whether you’re looking to collaborate on a project, discuss web development, or just say hi, I’d love to hear from you. Let’s create something awesome together! 🚀
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=elnaggar222&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+  ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elnaggar222&show_icons=true&theme=radical)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elnaggar222&show_icons=true&locale=en&layout=compact&theme=radical)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elnaggar222&theme=radical)
+</div>
 
 ---
