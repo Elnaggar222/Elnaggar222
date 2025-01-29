@@ -59,5 +59,3 @@ Whether you’re looking to collaborate on a project, discuss web development, o
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elnaggar222&theme=radical)
 </div>
-
----
